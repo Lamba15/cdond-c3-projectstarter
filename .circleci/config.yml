@@ -90,7 +90,7 @@ jobs:
       - run:
           name: back-end test
           command: |
-            cd frontend
+            cd backend
             npm test
 #
 #  scan-frontend:
