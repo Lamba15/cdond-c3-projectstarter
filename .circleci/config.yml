@@ -192,6 +192,7 @@ jobs:
       - image: cimg/base:stable
     steps:
       - checkout
+      - install_awscli
       - install_ansible
       - add_ssh_keys:
           fingerprints: [2c:ab:0e:f6:14:47:4d:44:53:25:78:2c:08:85:f4:d4]
