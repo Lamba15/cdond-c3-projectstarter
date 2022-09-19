@@ -1,5 +1,5 @@
 URL01: https://github.com/Lamba15/cdond-c3-projectstarter
-URL02: http://udapeople-a9d6f18.s3-website-us-east-1.amazonaws.com
+URL02: http://udapeople-a387623.s3-website-us-east-1.amazonaws.com/#/employees
 URL03: http://d2vcj644orer5o.cloudfront.net
 URL04: 34.239.122.64:3030
 URL05: 3.83.50.33:9090
